@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="1.761" errors="0" skipped="0" tests="1" name="Test1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_67\jre\bin"/>
+    <property name="java.vm.version" value="24.65-b04"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\snapshot\wk\Piotrek\simpleGreen"/>
+    <property name="java.runtime.version" value="1.7.0_67-b01"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="D:\snapshot\wk\Piotrek\simpleGreen"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="D:\snapshot\wk\Piotrek\simpleGreen\target\surefire\surefirebooter494888767595900728.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\jankucha\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_67\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\RSA SecurID Token Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;%M2_REPO%\bin;C:\Program Files\Java\jdk1.7.0_67\bin;C:\Program Files\Apache Software Foundation\apache-maven-3.2.3\bin; D:\sonarqube-4.5\bin;."/>
+    <property name="surefire.test.class.path" value="D:\snapshot\wk\Piotrek\simpleGreen\target\test-classes;D:\snapshot\wk\Piotrek\simpleGreen\target\classes;D:\userdata\jankucha\.m2\repository\com\vaadin\addon\jpacontainer-addon-agpl-3.0\2.0.0\jpacontainer-addon-agpl-3.0-2.0.0.jar;D:\userdata\jankucha\.m2\repository\org\vaadin\addons\customfield\0.9.3\customfield-0.9.3.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\addon\beanvalidation-addon\1.0.0\beanvalidation-addon-1.0.0.jar;D:\userdata\jankucha\.m2\repository\javax\validation\validation-api\1.0.0.GA\validation-api-1.0.0.GA.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin\6.7.4\vaadin-6.7.4.jar;D:\userdata\jankucha\.m2\repository\org\eclipse\persistence\eclipselink\2.2.0\eclipselink-2.2.0.jar;D:\userdata\jankucha\.m2\repository\org\eclipse\persistence\javax.persistence\2.0.0\javax.persistence-2.0.0.jar;D:\userdata\jankucha\.m2\repository\com\h2database\h2\1.3.160\h2-1.3.160.jar;D:\userdata\jankucha\.m2\repository\org\hibernate\hibernate-validator\4.2.0.Final\hibernate-validator-4.2.0.Final.jar;D:\userdata\jankucha\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;D:\userdata\jankucha\.m2\repository\com\google\gwt\gwt-user\2.3.0\gwt-user-2.3.0.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin-server\7.0.1\vaadin-server-7.0.1.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin-shared\7.0.1\vaadin-shared-7.0.1.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin-shared-deps\1.0.2\vaadin-shared-deps-1.0.2.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin-theme-compiler\7.0.1\vaadin-theme-compiler-7.0.1.jar;D:\userdata\jankucha\.m2\repository\org\apache\commons\commons-jexl\2.1.1\commons-jexl-2.1.1.jar;D:\userdata\jankucha\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;D:\userdata\jankucha\.m2\repository\org\w3c\css\sac\1.3\sac-1.3.jar;D:\userdata\jankucha\.m2\repository\net\sourceforge\cssparser\cssparser\0.9.5\cssparser-0.9.5.jar;D:\userdata\jankucha\.m2\repository\commons-cli\commons-cli\1.2\commons-cli-1.2.jar;D:\userdata\jankucha\.m2\repository\org\jsoup\jsoup\1.6.3\jsoup-1.6.3.jar;D:\userdata\jankucha\.m2\repository\javax\ejb\ejb-api\3.0\ejb-api-3.0.jar;D:\userdata\jankucha\.m2\repository\junit\junit\4.6\junit-4.6.jar;D:\userdata\jankucha\.m2\repository\mysql\mysql-connector-java\5.1.33\mysql-connector-java-5.1.33.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="D:\userdata\jankucha"/>
+    <property name="user.timezone" value="Europe/Belgrade"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="jankucha"/>
+    <property name="java.class.path" value="D:\snapshot\wk\Piotrek\simpleGreen\target\test-classes;D:\snapshot\wk\Piotrek\simpleGreen\target\classes;D:\userdata\jankucha\.m2\repository\com\vaadin\addon\jpacontainer-addon-agpl-3.0\2.0.0\jpacontainer-addon-agpl-3.0-2.0.0.jar;D:\userdata\jankucha\.m2\repository\org\vaadin\addons\customfield\0.9.3\customfield-0.9.3.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\addon\beanvalidation-addon\1.0.0\beanvalidation-addon-1.0.0.jar;D:\userdata\jankucha\.m2\repository\javax\validation\validation-api\1.0.0.GA\validation-api-1.0.0.GA.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin\6.7.4\vaadin-6.7.4.jar;D:\userdata\jankucha\.m2\repository\org\eclipse\persistence\eclipselink\2.2.0\eclipselink-2.2.0.jar;D:\userdata\jankucha\.m2\repository\org\eclipse\persistence\javax.persistence\2.0.0\javax.persistence-2.0.0.jar;D:\userdata\jankucha\.m2\repository\com\h2database\h2\1.3.160\h2-1.3.160.jar;D:\userdata\jankucha\.m2\repository\org\hibernate\hibernate-validator\4.2.0.Final\hibernate-validator-4.2.0.Final.jar;D:\userdata\jankucha\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;D:\userdata\jankucha\.m2\repository\com\google\gwt\gwt-user\2.3.0\gwt-user-2.3.0.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin-server\7.0.1\vaadin-server-7.0.1.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin-shared\7.0.1\vaadin-shared-7.0.1.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin-shared-deps\1.0.2\vaadin-shared-deps-1.0.2.jar;D:\userdata\jankucha\.m2\repository\com\vaadin\vaadin-theme-compiler\7.0.1\vaadin-theme-compiler-7.0.1.jar;D:\userdata\jankucha\.m2\repository\org\apache\commons\commons-jexl\2.1.1\commons-jexl-2.1.1.jar;D:\userdata\jankucha\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;D:\userdata\jankucha\.m2\repository\org\w3c\css\sac\1.3\sac-1.3.jar;D:\userdata\jankucha\.m2\repository\net\sourceforge\cssparser\cssparser\0.9.5\cssparser-0.9.5.jar;D:\userdata\jankucha\.m2\repository\commons-cli\commons-cli\1.2\commons-cli-1.2.jar;D:\userdata\jankucha\.m2\repository\org\jsoup\jsoup\1.6.3\jsoup-1.6.3.jar;D:\userdata\jankucha\.m2\repository\javax\ejb\ejb-api\3.0\ejb-api-3.0.jar;D:\userdata\jankucha\.m2\repository\junit\junit\4.6\junit-4.6.jar;D:\userdata\jankucha\.m2\repository\mysql\mysql-connector-java\5.1.33\mysql-connector-java-5.1.33.jar;"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_67\jre"/>
+    <property name="sun.java.command" value="D:\snapshot\wk\Piotrek\simpleGreen\target\surefire\surefirebooter494888767595900728.jar D:\snapshot\wk\Piotrek\simpleGreen\target\surefire\surefire5543032192073811662tmp D:\snapshot\wk\Piotrek\simpleGreen\target\surefire\surefire3501059648616516392tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_67"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_67\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_67\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_67\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="D:\userdata\jankucha\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase time="1.704" classname="Test1" name="test1"/>
+</testsuite>
